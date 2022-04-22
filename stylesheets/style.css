@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+h2 {
+  color: blue;
+}
+
+.block {
+  background-color: black;
+}
+.block h3 {
+  color: white;
+}
+.block_color {
+  background-color: #ffffff;
+}
+.block_color button {
+  width: 350px;
+}
+.block .block_color {
+  color: blue;
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"$text_color: blue;\n\nh1 {\n    color: $text_color;\n    font-size: 50px; }\nh2 {\n    color: $text_color; }\n.block {\n    background-color: black;\n    h3 {\n        color: white; }\n    &_color {\n        background-color: #ffffff;\n        button {\n            width: 350px; } }\n    .block_color {\n        color: pink; } }\n"
+	],
+	"names": [],
+	"mappings": ";AAEA,AAAA,EAAE,CAAC;EACC,KAAK,EAHI,IAAI;EAIb,SAAS,EAAE,IAAI;CAAG;;;AACtB,AAAA,EAAE,CAAC;EACC,KAAK,EANI,IAAI;CAMQ;;;AACzB,AAAA,MAAM,CAAC;EACH,gBAAgB,EAAE,KAAK;CAQH;;;AATxB,AAEI,MAFE,CAEF,EAAE,CAAC;EACC,KAAK,EAAE,KAAK;CAAG;;;AAClB,AAAD,YAAO,CAAC;EACJ,gBAAgB,EAAE,OAAO;CAEJ;;;AAHxB,AAEG,YAFG,CAEH,MAAM,CAAC;EACH,KAAK,EAAE,KAAK;CAAG;;;AAP3B,AAQI,MARE,CAQF,YAAY,CAAC;EACT,KAAK,EAAE,IAAI;CAAG"
+}
